@@ -1,0 +1,97 @@
+Output
+1st Client:
+
+Would you like to upload a vehicle(U) or coinfigure one(C):
+U
+Where is the car file you want to upload?:
+2004 Ford Wagon ZTW.prop
+Vehicle models stored on the server: 
+[2004 ford wagon ztw]
+
+2nd Client:
+
+Would you like to upload a vehicle(U) or coinfigure one(C):
+c
+Vehicle models you can configure: 
+[2004 ford wagon ztw]
+Enter the model to configure:
+2004 ford wagon ztw
+Choose your options
+Color
+	Fort Knox Gold Clearcoat Metallic $0.0
+	Liquid Grey Clearcoat Metallic $0.0
+	Infra-Red Clearcoat $0.0
+	Grabber Green Clearcoat Metallic $0.0
+	Sangria Red Clearcoat Metallic $0.0
+	French Blue Clearcoat Metallic $0.0
+	Twilight Blue Clearcoat Metallic $0.0
+	CD Silver Clearcoat Metallic $0.0
+	Pitch Black Clearcoat $0.0
+	Cloud 9 White Clearcoat $0.0
+
+pitch black clearcoat
+
+
+Transmission
+	Automatic $0.0
+	Standard $-815.0
+
+automatic
+
+
+Brakes
+	Standard $0.0
+	ABS $400.0
+	ABS with Advance Trac $1625.0
+
+abs
+
+
+Side Impact Airbags
+	no $0.0
+	yes $350.0
+
+yes
+
+
+Power Moonroof
+	no $0.0
+	yes $595.0
+
+no
+
+
+Your car is now this:
+
+2004 Ford Wagon ZTW  base: $18445.0
+
+   Color: 
+	Fort Knox Gold Clearcoat Metallic $0.0
+	Liquid Grey Clearcoat Metallic $0.0
+	Infra-Red Clearcoat $0.0
+	Grabber Green Clearcoat Metallic $0.0
+	Sangria Red Clearcoat Metallic $0.0
+	French Blue Clearcoat Metallic $0.0
+	Twilight Blue Clearcoat Metallic $0.0
+	CD Silver Clearcoat Metallic $0.0
+   [X]  Pitch Black Clearcoat $0.0
+	Cloud 9 White Clearcoat $0.0
+
+   Transmission: 
+   [X]  Automatic $0.0
+	Standard $-815.0
+
+   Brakes: 
+	Standard $0.0
+   [X]  ABS $400.0
+	ABS with Advance Trac $1625.0
+
+   Side Impact Airbags: 
+	no $0.0
+   [X]  yes $350.0
+
+   Power Moonroof: 
+   [X]  no $0.0
+	yes $595.0
+
+Total: $19195.0

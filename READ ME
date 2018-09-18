@@ -1,0 +1,3 @@
+To run use KBBAppV2 client to upload prop files to server in KBBAppV2 project to set it up
+Then keep KBBAppV2 server running and run KBBAppV6 on Tomcat(I used apache-tomcat-7.0.34 as the server to run KBBAppV6 on) to connect to server through browser interface
+I also used Eclipse to run everything just in case you were wondering
